@@ -1,0 +1,18 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "text": "Doctors Appointment",
+      "day": "July 12th at 12:30PM",
+      "details": "At the Texas Medical Center",
+      "reminder": true
+    },
+    {
+      "text": "Computer Science Test",
+      "day": "August 14th @ 11:30 AM",
+      "details": "Chapter 1-3",
+      "reminder": true,
+      "id": 2
+    }
+  ]
+}
