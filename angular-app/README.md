@@ -1,27 +1,26 @@
-# AngularCrash
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.1.1.
+<h1>Task Tracker </h1>
 
-## Development server
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+<h2>Preview: </h2>
 
-## Code scaffolding
+https://user-images.githubusercontent.com/74980722/126686219-3d9fa978-c5b2-4a2b-995c-a02ce72846ff.mp4
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
 
-## Build
+<h2> To Run Locally</h2>
+<p>
+<ol>
+  <li>After cloning this repository, install the packages and start the server: </li>
+ 
+  ```
+  npm install
+  npm run server
+  ng serve
+  ```
+ <li>Visit http://localhost:4200  </li>
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+</ol>
+</p>
 
-## Running unit tests
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
 
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
